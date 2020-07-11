@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 仓库说明
 
 文件夹01_预习资料：存放开课前学员预习资料链接
@@ -29,3 +30,7 @@
 | GitHub使用      | https://gitee.com/lagouedu/Basic-document/blob/master/document/GitHub.md | 程序员开发协作工具使用 | 1. 课件下载 2.作业上传                          |
 | IDEA工具使用    | https://gitee.com/lagouedu/Basic-document/blob/master/document/IDEA_basic.md | 程序员开发协作工具使用 | 1、下载安装idea 2、idea构建Java项目 3、常用快捷 |
 
+=======
+# payrise
+溜达鸡的数据仓库
+>>>>>>> 7d698fd98a0d2d3b9caf338d1872440487ff50ab
